@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+good morning
+welcome to git lab
+=======
+Hello everyone 
+hope you are doing good!
+>>>>>>> 3e750f2 (first demo file)
